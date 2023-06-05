@@ -1,0 +1,17 @@
+{
+	"name": "@filecoin-renewable-energy-purchases/js-api-example",
+	"version": "0.0.1",
+	"description": "@filecoin-renewable-energy-purchases/js-api how to use example",
+	"type": "module",
+	"author": {
+		"name": "Momcilo Dzunic",
+		"email": "momcilo.dzunic@protocol.ai"
+	},
+	"scripts": {
+		"example-contracts-and-allocations": "node src/example-contracts-and-allocations.js",
+		"example-certificates-and-attestations": "node src/example-certificates-and-attestations.js"
+	},
+	"dependencies": {
+		"@filecoin-renewable-energy-purchases/js-api": "^0.0.1"
+	}
+}
