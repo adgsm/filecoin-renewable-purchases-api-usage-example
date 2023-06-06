@@ -11,6 +11,9 @@ by [Momcilo Dzunic aka smartbee.eth](https://twitter.com/mdzunic)
     // get contracertificatescts and attestations
     npm run example-certificates-and-attestations
 
+    // get contracts and allocations from Github
+    npm run example-contracts-and-allocations-from-github
+
 ### License
 Licensed under the MIT license.
 http://www.opensource.org/licenses/mit-license.php
