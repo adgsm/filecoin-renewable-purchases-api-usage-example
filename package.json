@@ -9,9 +9,13 @@
 	},
 	"scripts": {
 		"example-contracts-and-allocations": "node src/example-contracts-and-allocations.js",
-		"example-certificates-and-attestations": "node src/example-certificates-and-attestations.js"
+		"example-certificates-and-attestations": "node src/example-certificates-and-attestations.js",
+		"example-contracts-and-allocations-from-github": "env-cmd node src/example-contracts-and-allocations-from-github.js"
 	},
 	"dependencies": {
-		"@filecoin-renewable-energy-purchases/js-api": "^0.0.1"
+		"@filecoin-renewable-energy-purchases/js-api": "^0.0.2"
+	},
+	"devDependencies": {
+		"env-cmd": "^10.1.0"
 	}
 }
