@@ -14,7 +14,7 @@
 		"example-certificates-and-attestations-from-github": "env-cmd node src/example-certificates-and-attestations-from-github.js"
 	},
 	"dependencies": {
-		"@filecoin-renewable-energy-purchases/js-api": "^0.0.3"
+		"@filecoin-renewable-energy-purchases/js-api": "^0.0.4"
 	},
 	"devDependencies": {
 		"env-cmd": "^10.1.0"
