@@ -17,6 +17,12 @@ by [Momcilo Dzunic aka smartbee.eth](https://twitter.com/mdzunic)
     // get attestations and certificates from Github
     npm run example-attestations-and-certificates-from-github
 
+    // get all allocations from Github
+    npm run example-all-allocations-from-github
+
+    // get all certificates' with attestations and allocations from Github
+    npm run example-all-certificate-allocations-from-github
+
 ### License
 Licensed under the MIT license.
 http://www.opensource.org/licenses/mit-license.php
