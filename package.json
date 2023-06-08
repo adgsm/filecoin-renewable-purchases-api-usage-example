@@ -16,7 +16,7 @@
 		"example-all-certificate-allocations-from-github": "env-cmd node src/example-all-certificate-allocations-from-github.js"
 	},
 	"dependencies": {
-		"@filecoin-renewable-energy-purchases/js-api": "^0.0.5"
+		"@filecoin-renewable-energy-purchases/js-api": "^0.0.6"
 	},
 	"devDependencies": {
 		"env-cmd": "^10.1.0"
